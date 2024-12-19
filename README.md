@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/YOUR-DOI-HERE.svg)](https://doi.org/10.5281/zenodo.14511324)
 [![Shiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?logo=R)](YOUR-SHINYAPP-URL)
 
-Interactive visualization tool for comparing traditional and deep learning-based brain segmentation methods, as presented at [Conference Name] 2024.
+Interactive visualization tool for comparing traditional and deep learning-based brain segmentation methods.
 
 ## Overview
 
@@ -15,7 +15,7 @@ This repository contains the code and analysis tools used in our study comparing
 
 ## Interactive Application
 
-Access the interactive visualization tool at: [YOUR-SHINYAPP-URL]
+Access the interactive visualization tool at:  https://petermcgor.shinyapps.io/From-Traditional2DL/
 
 The app provides:
 - Software comparison visualizations for each brain region
@@ -55,15 +55,7 @@ shiny::runApp()
 ## Citation
 
 If you use this code or analysis in your research, please cite:
-
-```bibtex
-@inproceedings{YOUR-NAME-2024,
-  title={From Traditional to Deep Learning-Based Brain Segmentation: A Multi-Site Reliability Analysis},
-  author={[Author list]},
-  booktitle={[Conference Name] 2024},
-  year={2024}
-}
-```
+TBD
 
 ## License
 
