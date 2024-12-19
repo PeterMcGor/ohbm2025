@@ -1,4 +1,4 @@
-# Brain Segmentation Analysis Tool
+# From-Traditional2DL Brain Segmentation analysis
 
 [![DOI](https://zenodo.org/badge/DOI/zenodo.14511324.svg)](https://doi.org/10.5281/zenodo.14511324)
 [![Shiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?logo=R)](YOUR-SHINYAPP-URL)
