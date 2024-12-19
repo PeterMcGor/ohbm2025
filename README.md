@@ -1,6 +1,6 @@
 # Brain Segmentation Analysis Tool
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR-DOI-HERE.svg)](https://doi.org/10.5281/zenodo.14511324)
+[![DOI](https://zenodo.org/badge/DOI/zenodo.14511324.svg)](https://doi.org/10.5281/zenodo.14511324)
 [![Shiny](https://img.shields.io/badge/Shiny-shinyapps.io-blue?logo=R)](YOUR-SHINYAPP-URL)
 
 Interactive visualization tool for comparing traditional and deep learning-based brain segmentation methods.
