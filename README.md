@@ -57,10 +57,6 @@ shiny::runApp()
 If you use this code or analysis in your research, please cite:
 TBD
 
-## License
 
-This project is licensed under [YOUR-CHOSEN-LICENSE] - see the LICENSE file for details.
 
-## Contact
 
-[Your Name] - [Your Email/Contact Information]
