@@ -54,8 +54,16 @@ shiny::runApp()
 
 ## Citation
 
-If you use this code or analysis in your research, please cite:
-TBD
+@inproceedings{gordaliza2025traditional,
+  title     = {From Traditional to Deep Learning: Multi-Site Reliability and Subject Differentiation in Brain Segmentation},
+  author    = {Gordaliza, Pedro M. and Alem{\'a}n-G{\'o}mez, Yasser and Banus, Jaume and Bach Cuadra, Meritxell},
+  booktitle = {Organization for Human Brain Mapping (OHBM) Annual Meeting},
+  address   = {Brisbane, Australia},
+  year      = {2025},
+  month     = jun,
+  doi       = {10.5281/zenodo.15019175},
+  url       = {https://doi.org/10.5281/zenodo.15019175}
+}
 
 
 
