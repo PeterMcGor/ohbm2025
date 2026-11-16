@@ -53,7 +53,15 @@ shiny::runApp()
 ```
 
 ## Citation
+If you use this work, please cite it as:
 
+> Gordaliza, P. M., Alemán-Gómez, Y., Banus, J., & Bach Cuadra, M. (2025). *From Traditional to Deep Learning: Multi-Site Reliability and Subject Differentiation in Brain Segmentation*. Organization for Human Brain Mapping (OHBM) Annual Meeting, Brisbane, Australia. https://doi.org/10.5281/zenodo.15019175
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15019175.svg)](https://doi.org/10.5281/zenodo.15019175)
+
+### BibTeX
+
+```bibtex
 @inproceedings{gordaliza2025traditional,
   title     = {From Traditional to Deep Learning: Multi-Site Reliability and Subject Differentiation in Brain Segmentation},
   author    = {Gordaliza, Pedro M. and Alem{\'a}n-G{\'o}mez, Yasser and Banus, Jaume and Bach Cuadra, Meritxell},
@@ -64,6 +72,7 @@ shiny::runApp()
   doi       = {10.5281/zenodo.15019175},
   url       = {https://doi.org/10.5281/zenodo.15019175}
 }
+```
 
 
 
